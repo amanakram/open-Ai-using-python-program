@@ -1,5 +1,5 @@
 import json
-import openai
+import openai  # type: ignore
 import concurrent.futures
 
 # Set your OpenAI API key
